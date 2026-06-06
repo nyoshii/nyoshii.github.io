@@ -58,12 +58,14 @@ Work experience
 Publications
 ======
 * **Under One Sun: Multi-Object Generative Perception of Materials and Illumination**  
-  Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,  
+  Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,
+  Under Review, 2026,  
   [[Paper]](https://arxiv.org/abs/2603.19226) [[Project]](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)
-  ![Editing a Markdown file for a talk](/images/editing-talk.png)
+  ![Under One Sun]([/images/editing-talk.png](https://vision.ist.i.kyoto-u.ac.jp/assets/images/onesun_teaser.png))
 
 * **拡散モデルを用いたマルチモーダル画像の素材認識**  
-  Nobuo Yoshii, and Ko Nishino,  
+  Nobuo Yoshii, and Ko Nishino,
+  Information Processing Society of Japan SIG-CVIM: Computer Vision and Image Media, 2025,  
   [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)
   
 Skills
