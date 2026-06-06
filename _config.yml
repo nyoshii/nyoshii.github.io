@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision R&D Engineer"
   location         : "Tokyo, Japan"
-  employer         : "Kyoto University Computer Vision Lab"
+  employer         : "Kyoto Univ. Computer Vision Lab"
   uri              : # URL
   email            : # "none@example.org" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
