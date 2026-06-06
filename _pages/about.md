@@ -93,8 +93,8 @@ Extracurricular Awards
   同スプリングキャンプ・最優秀賞/区間賞
 * **<span style="color: orange; font-weight: bold;">[Outstanding Presentation Award]</span>** – Kyoto University ECE Circuit Design Exercise  
   同電気電子回路演習発表会・優秀賞
-* **<span style="color: orange; font-weight: bold;">[Award for Excellence & Osaka Prefectural Board of Education Award]</span>** – Osaka Student Science Fair  
-  大阪府学生科学賞展・優秀賞/大阪府教育委員会賞  
+* **<span style="color: orange; font-weight: bold;">[Osaka Prefectural Board of Education Award]</span>** – Osaka Student Science Fair  
+  大阪府学生科学賞展・優秀賞(大阪府教育委員会賞)  
   <img src="/images/robots.jpg" alt="Robots" style="width: 90%;">
 
 Hobby
