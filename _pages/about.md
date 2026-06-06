@@ -85,7 +85,7 @@ Skills
   
 Extracurricular Awards
 ======
-* **<span style="color: red; font-weight: bold;">[First Place / Regional Champion]</span>** – All Japan Robo-Junior Championship, Osaka Qualifier  
+* **<span style="color: red; font-weight: bold;">[Regional Champion]</span>** – All Japan Robo-Junior Championship, Osaka Qualifier  
   全日本小中学生ロボット選手権大阪府予選大会・優勝
 * **<span style="color: red; font-weight: bold;">[Best Performance Award]</span>** – Kyoto University ECE Summer Camp  
   京都大学工学部電気電子工学科サマーキャンプ・最優秀賞
