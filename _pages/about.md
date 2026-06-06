@@ -64,7 +64,7 @@ Publications
   ![Under One Sun](https://vision.ist.i.kyoto-u.ac.jp/assets/images/onesun_teaser.png)
 
 * **拡散モデルを用いたマルチモーダル画像の素材認識**  
-  Nobuo Yoshii, and Ko Nishino,
+  Nobuo Yoshii, and Ko Nishino,  
   Information Processing Society of Japan SIG-CVIM: Computer Vision and Image Media, 2025,  
   [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)
   
