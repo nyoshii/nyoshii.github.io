@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/images/teaser.jpg" alt="Teaser" style="width: 100%;">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHKZ4Jt2aU5bQ/profile-displaybackgroundimage-shrink_350_1400/B56Z6bSAiwI8AU-/0/1780721654173?e=1782345600&v=beta&t=uNGvi3DSmDvPSEpd3lEs_xTcE9MxBj_l6FQ9f5DKD04" alt="Teaser" style="width: 100%;">
 
 Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto University, advised by Prof. [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/).
 I also worked with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).  
