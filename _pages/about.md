@@ -66,7 +66,7 @@ Publications
 * **拡散モデルを用いたマルチモーダル画像の素材認識**  
   Nobuo Yoshii and Ko Nishino,  
   Information Processing Society of Japan SIG-CVIM: Computer Vision and Image Media, 2024,  
-  [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)
+  [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)  
   <img src="/images/MMS.jpg" alt="Multimodal Material Segmentaion" style="width: 90%;">
   
   
