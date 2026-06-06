@@ -60,6 +60,7 @@ Publications
 * **Under One Sun: Multi-Object Generative Perception of Materials and Illumination**  
   Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,  
   [[Paper]](https://arxiv.org/abs/2603.19226) [[Project]](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)
+  ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
 * **拡散モデルを用いたマルチモーダル画像の素材認識**  
   Nobuo Yoshii, and Ko Nishino,  
@@ -70,6 +71,7 @@ Skills
 * Computer Vision
   * Inverse Rendering
   * Material Segmentation
+  * Diffusion / Transformer
 * Programming
   * Python / Pytorch
   * OpenCV
