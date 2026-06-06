@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<img src="/images/teaser.jpg" alt="Teaser" style="width: 100%;">
+
 Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto University, advised by Prof. [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/).
 I also worked with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).  
 I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor Solutions.
