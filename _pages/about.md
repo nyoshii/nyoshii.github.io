@@ -67,6 +67,7 @@ Publications
   Nobuo Yoshii and Ko Nishino,  
   Information Processing Society of Japan SIG-CVIM: Computer Vision and Image Media, 2024,  
   [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)
+  <img src="/images/MMS.jpg" alt="Multimodal Material Segmentaion" style="width: 90%;">
   
   
 Skills
@@ -87,8 +88,10 @@ Awards in Electrical and Electronic Engineering
 * 京都大学工学部電気電子工学科サマーキャンプ・最優秀賞
 * 同スプリングキャンプ・最優秀賞/区間賞
 * 同電気電子回路演習発表会・優秀賞
+  <img src="/images/robots.jpg" alt="Robots" style="width: 90%;">
 
 Hobby
 ======
 * Watching baseball
 * Outdoor activities (Camping, Cycling, Fishing, Climbing)
+  <img src="/images/hobby.jpg" alt="Hobby" style="width: 90%;">
