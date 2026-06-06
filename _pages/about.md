@@ -61,7 +61,7 @@ Publications
   Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,  
   Under Review, 2026,  
   [[Paper]](https://arxiv.org/abs/2603.19226) [[Project]](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)  
-  ![Under One Sun](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)
+  ![Under One Sun](https://vision.ist.i.kyoto-u.ac.jp/assets/images/onesun_frontteaser.gif)
 
 * **拡散モデルを用いたマルチモーダル画像の素材認識**  
   Nobuo Yoshii and Ko Nishino,  
