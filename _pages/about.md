@@ -63,7 +63,7 @@ Publications
   [[Paper]](https://arxiv.org/abs/2603.19226) [[Project]](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)  
   <img src="https://vision.ist.i.kyoto-u.ac.jp/assets/images/onesun_frontteaser.gif" alt="Under One Sun" style="width: 90%;">
 
-* **拡散モデルを用いたマルチモーダル画像の素材認識**  
+* **Diffusion based Multimodal Material Segmentation**  
   Nobuo Yoshii and Ko Nishino,  
   Information Processing Society of Japan SIG-CVIM: Computer Vision and Image Media, 2024, <span style="color: red; font-weight: bold;">[Best Bachelor Paper Award]</span>  
   [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)   
@@ -78,17 +78,23 @@ Skills
   * Diffusion Model
   * Vision Transformer
 * Programming
-  * Python / Pytorch
+  * Python/Pytorch
   * OpenCV
   * Mitsuba3
   * C
   
-Awards in Electrical and Electronic Engineering
+Extracurricular Awards
 ======
-* 全日本小中学生ロボット選手権大阪府予選大会・優勝
-* 京都大学工学部電気電子工学科サマーキャンプ・最優秀賞
-* 同スプリングキャンプ・最優秀賞/区間賞
-* 同電気電子回路演習発表会・優秀賞
+* **<span style="color: red; font-weight: bold;">[First Place / Regional Champion]</span>** – All Japan Robo-Junior Championship, Osaka Qualifier  
+  全日本小中学生ロボット選手権大阪府予選大会・優勝
+* **<span style="color: red; font-weight: bold;">[Best Performance Award]</span>** – Kyoto University ECE Summer Camp  
+  京都大学工学部電気電子工学科サマーキャンプ・最優秀賞
+* **<span style="color: red; font-weight: bold;">[Best Performance Award & Best Section Award]</span>** – Kyoto University ECE Spring Camp  
+  同スプリングキャンプ・最優秀賞/区間賞
+* **<span style="color: orange; font-weight: bold;">[Outstanding Presentation Award]</span>** – Kyoto University ECE Circuit Design Exercise  
+  同電気電子回路演習発表会・優秀賞
+* **<span style="color: orange; font-weight: bold;">[Award for Excellence & Osaka Prefectural Board of Education Award]</span>** – Osaka Student Science Fair  
+  大阪府学生科学賞展・優秀賞/大阪府教育委員会賞  
   <img src="/images/robots.jpg" alt="Robots" style="width: 90%;">
 
 Hobby
