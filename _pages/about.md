@@ -8,24 +8,24 @@ redirect_from:
 ---
 
 {% include base_path %}
+Hi, I'm Nobuo. I completed my Master's degree in Informatics at Kyoto University, advised by [Prof. Ko Nishino]([https://github.com/academicpages/academicpages.github.io](https://vision.ist.i.kyoto-u.ac.jp/)). I also work with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).
+I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor Solutions.
 
 Education
 ======
-* April 2024 - March 2026: M.S. in Informatics (Computer Vision), Kyoto University
-  * Advisor: Prof. Ko Nishino
-* April 2020 - March 2024: B.S. in Electrical and Electronic Engineering, Kyoto University
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - March 2026</td>
+    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">M.S. in Informatics (Computer Vision), Kyoto University</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2020 - March 2024</td>
+    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">B.S. in Electrical and Electronic Engineering, Kyoto University</td>
+  </tr>
+</table>
 
 Work experience
 ======
-* April 2026 - : Computer Vision R&D Engineer, Sony Semiconductor Solutions
-* July 2024 - March 2026: Research Assistant, Kyoto University
-* September 2024: Research Internship, Sony Semiconductor Solutions
-* August 2024: Research Internship, NTT DATA Group Corporation
-* August 2024: Research Internship, FUJIFILM Corporation
-* April 2024 - June 2024: Teaching Assistant, Kyoto University
-
-
-
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2026 - </td>
@@ -41,15 +41,15 @@ Work experience
   </tr>
   <tr style="border: none;">
     <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">August 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, NTT DATA Group Corporation</td>
+    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, NTT DATA Group</td>
   </tr>
   <tr style="border: none;">
     <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">August 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, FUJIFILM Corporation</td>
+    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, FUJIFILM Group</td>
   </tr>
   <tr style="border: none;">
     <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - June 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Teaching Assistant, Teaching Assistant, Kyoto University</td>
+    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Teaching Assistant, Kyoto University</td>
   </tr>
 </table>
 
