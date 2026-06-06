@@ -17,21 +17,12 @@ Education
 
 Work experience
 ======
+* April 2026 - : Computer Vision R&D Engineer, Sony Semiconductor Solutions
 * July 2024 - March 2026: Research Assistant, Kyoto University
 * September 2024: Research Internship, Sony Semiconductor Solutions
 * August 2024: Research Internship, FUJIFILM Corporation
 * August 2024: Research Internship, NTT DATA Group Corporation
 * April 2024 - June 2024: Teaching Assistant, Kyoto University
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -39,18 +30,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Computer Vision
+  * Inverse Rendering
+  * Material Segmentation
+* Programming
+  * Python / Pytorch
+  * OpenCV
+  * Mitsuba3
+  * C
   
-Teaching
+Awards in Electrical and Electronic Engineering
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 全日本小中学生ロボット選手権大阪府予選大会・優勝
+* 京都大学工学部電気電子工学科サマーキャンプ・最優秀賞
+* 同スプリングキャンプ・最優秀賞/区間賞
+* 同電気電子回路演習発表会・優秀賞
+
+Hobby
 ======
-* Currently signed in to 43 different slack teams
+* Watching baseball
+* Outdoor activities (Camping, Cycling, Fishing, Climbing)
