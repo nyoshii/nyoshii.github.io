@@ -47,7 +47,7 @@ Work experience
   </tr>
   <tr style="border: none;">
     <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">August 2024</td>
-    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, FUJIFILM Group</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, FUJIFILM</td>
   </tr>
   <tr style="border: none;">
     <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - June 2024</td>
@@ -58,15 +58,16 @@ Work experience
 Publications
 ======
 * **Under One Sun: Multi-Object Generative Perception of Materials and Illumination**  
-  Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,
+  Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,  
   Under Review, 2026,  
-  [[Paper]](https://arxiv.org/abs/2603.19226) [[Project]](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)
+  [[Paper]](https://arxiv.org/abs/2603.19226) [[Project]](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)  
   ![Under One Sun](https://vision.ist.i.kyoto-u.ac.jp/assets/images/onesun_teaser.png)
 
 * **拡散モデルを用いたマルチモーダル画像の素材認識**  
   Nobuo Yoshii, and Ko Nishino,
   Information Processing Society of Japan SIG-CVIM: Computer Vision and Image Media, 2025,  
   [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)
+  
   
 Skills
 ======
