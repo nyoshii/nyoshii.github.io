@@ -75,7 +75,8 @@ Skills
 * Computer Vision
   * Inverse Rendering
   * Material Segmentation
-  * Diffusion / Transformer
+  * Diffusion Model
+  * Vision Transformer
 * Programming
   * Python / Pytorch
   * OpenCV
