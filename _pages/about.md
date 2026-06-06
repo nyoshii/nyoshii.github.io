@@ -58,9 +58,8 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Under One Sun: Multi-Object Generative Perception of Materials and Illumination
+* 拡散モデルを用いたマルチモーダル画像の素材認識
   
 Skills
 ======
