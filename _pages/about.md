@@ -17,12 +17,12 @@ Education
 ======
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - March 2026</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">M.S. in Informatics, Kyoto University</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - March 2026</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">M.S. in Informatics, Kyoto University</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2020 - March 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">B.S. in Electrical and Electronic Engineering, Kyoto University</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2020 - March 2024</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">B.S. in Electrical and Electronic Engineering, Kyoto University</td>
   </tr>
 </table>
 
@@ -30,28 +30,28 @@ Work experience
 ======
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2026 - </td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Computer Vision R&D Engineer, Sony Semiconductor Solutions</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2026 - </td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Computer Vision R&D Engineer, Sony Semiconductor Solutions</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">July 2024 - March 2026</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Assistant, Kyoto University</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">July 2024 - March 2026</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Assistant, Kyoto University</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">September 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, Sony Semiconductor Solutions</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">September 2024</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, Sony Semiconductor Solutions</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">August 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, NTT DATA Group</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">August 2024</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, NTT DATA Group</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">August 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, FUJIFILM Group</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">August 2024</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Research Internship, FUJIFILM Group</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - June 2024</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Teaching Assistant, Kyoto University</td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - June 2024</td>
+    <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Teaching Assistant, Kyoto University</td>
   </tr>
 </table>
 
