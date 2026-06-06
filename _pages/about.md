@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-Hi, I'm Nobuo. I completed my Master's degree in Informatics at Kyoto University, advised by [Prof. Ko Nishino]([https://github.com/academicpages/academicpages.github.io](https://vision.ist.i.kyoto-u.ac.jp/)). I also work with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).
+Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto University, advised by Prof. [Ko Nishino]([https://github.com/academicpages/academicpages.github.io](https://vision.ist.i.kyoto-u.ac.jp/)).
+I also worked with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).
+
 I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor Solutions.
 
 Education
@@ -16,7 +18,7 @@ Education
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - March 2026</td>
-    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">M.S. in Informatics (Computer Vision), Kyoto University</td>
+    <td style="width: 70%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">M.S. in Informatics, Kyoto University</td>
   </tr>
   <tr style="border: none;">
     <td style="width: 30%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2020 - March 2024</td>
