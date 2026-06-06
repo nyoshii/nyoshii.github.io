@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* April 2024 - March 2026: M.S. in Informatics (Computer Vision), Kyoto University
+  * Advisor: Prof. Ko Nishino
+* April 2020 - March 2024: B.S. in Electrical and Electronic Engineering, Kyoto University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 - March 2026: Research Assistant, Kyoto University
+* September 2024: Research Internship, Sony Semiconductor Solutions
+* August 2024: Research Internship, FUJIFILM Corporation
+* August 2024: Research Internship, NTT DATA Group Corporation
+* April 2024 - June 2024: Teaching Assistant, Kyoto University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
