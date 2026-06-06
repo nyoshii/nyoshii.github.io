@@ -28,28 +28,28 @@ Work experience
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">April 2026 - </td>
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">Computer Vision R&D Engineer, Sony Semiconductor Solutions</td>
+    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">April 2026 - </td>
+    <td style="width: 65%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">Computer Vision R&D Engineer, Sony Semiconductor Solutions</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">July 2024 - March 2026</td>
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">Research Assistant, Kyoto University</td>
+    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">July 2024 - March 2026</td>
+    <td style="width: 65%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">Research Assistant, Kyoto University</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">September 2024</td>
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">Research Internship, Sony Semiconductor Solutions</td>
+    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">September 2024</td>
+    <td style="width: 65%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">Research Internship, Sony Semiconductor Solutions</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">August 2024</td>
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">Research Internship, NTT DATA Group Corporation</td>
+    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">August 2024</td>
+    <td style="width: 65%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">Research Internship, NTT DATA Group Corporation</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">August 2024</td>
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">Research Internship, FUJIFILM Corporation</td>
+    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">August 2024</td>
+    <td style="width: 65%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">Research Internship, FUJIFILM Corporation</td>
   </tr>
   <tr style="border: none;">
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">April 2024 - June 2024</td>
-    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.15rem; padding-left: 20px;">Teaching Assistant, Teaching Assistant, Kyoto University</td>
+    <td style="width: 35%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">April 2024 - June 2024</td>
+    <td style="width: 65%; padding: 10px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 20px;">Teaching Assistant, Teaching Assistant, Kyoto University</td>
   </tr>
 </table>
 
