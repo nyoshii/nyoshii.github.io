@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto University, advised by Prof. [Ko Nishino]([https://github.com/academicpages/academicpages.github.io](https://vision.ist.i.kyoto-u.ac.jp/)).
+
+Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto University, advised by Prof. [Ko Nishino](https://vision.ist.i.kyoto-u.ac.jp/).
 I also worked with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).
 
 I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor Solutions.
