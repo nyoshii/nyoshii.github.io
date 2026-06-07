@@ -10,6 +10,22 @@
 main:
  - title: "Education"
    url: /#education
+
+ - title: "Work Experience"
+   url: /#work-experience
+
+ - title: "Publications"
+   url: /#publications
+
+ - title: "Skills"
+   url: /#skills
+
+ - title: "Extracurricular Awards"
+   url: /#extracurricular-awards
+
+ - title: "Hobby"
+   url: /#hobby
+   
   # - title: "Publications"
   #   url: /publications/
 
