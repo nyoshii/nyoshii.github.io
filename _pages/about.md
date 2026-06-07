@@ -15,7 +15,7 @@ Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto Univer
 I also worked with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).  
 I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor Solutions.
 
-Education
+Education　{#my-education}
 ======
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -28,7 +28,7 @@ Education
   </tr>
 </table>
 
-Work experience
+Work experience　{#my-work-experience}
 ======
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -57,7 +57,7 @@ Work experience
   </tr>
 </table>
 
-Publications
+Publications　{#my-Publication}
 ======
 * **Under One Sun: Multi-Object Generative Perception of Materials and Illumination**  
   Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,  
@@ -72,7 +72,7 @@ Publications
   <img src="/images/MMS.jpg" alt="Multimodal Material Segmentaion" style="width: 90%;">
   
   
-Skills
+Skills　{#my-skills}
 ======
 * Computer Vision
   * Inverse Rendering
@@ -85,7 +85,7 @@ Skills
   * Mitsuba3
   * C
   
-Extracurricular Awards
+Extracurricular Awards　{#my-extracurricular-awards}
 ======
 * **<span style="color: red; font-weight: bold;">[Regional Champion]</span>** – All Japan Robo-Junior Championship, Osaka Qualifier  
   全日本小中学生ロボット選手権大阪府予選大会・優勝
@@ -99,7 +99,7 @@ Extracurricular Awards
   大阪府学生科学賞展・優秀賞(大阪府教育委員会賞)  
   <img src="/images/robots.jpg" alt="Robots" style="width: 90%;">
 
-Hobby
+Hobby {#my-hobby}
 ======
 * Watching baseball
 * Outdoor activities (Camping, Cycling, Fishing, Climbing)
