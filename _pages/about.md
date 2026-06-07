@@ -32,7 +32,7 @@ Work experience
 ======
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2026 - </td>
+    <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2026 - Present</td>
     <td style="width: 72.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">Computer Vision R&D Engineer, Sony Semiconductor Solutions</td>
   </tr>
   <tr style="border: none;">
