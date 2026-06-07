@@ -15,8 +15,8 @@ Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto Univer
 I also worked with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).  
 I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor Solutions.
 
-<h2 id="my-education">Education</h2>
-
+Education
+======
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - March 2026</td>
@@ -28,8 +28,8 @@ I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor S
   </tr>
 </table>
 
-<h2 id="my-work-experience">Work experience</h2>
-
+Work experience
+======
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2026 - </td>
@@ -57,23 +57,22 @@ I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor S
   </tr>
 </table>
 
-<h2 id="my-publications">Publications</h2>
-
+Publications
+======
 * **Under One Sun: Multi-Object Generative Perception of Materials and Illumination**  
   Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,  
   Under Review, 2026,  
   [[Paper]](https://arxiv.org/abs/2603.19226) [[Project]](https://vision.ist.i.kyoto-u.ac.jp/research/onesun/)  
   <img src="https://vision.ist.i.kyoto-u.ac.jp/assets/images/onesun_frontteaser.gif" alt="Under One Sun" style="width: 90%;">
-
 * **Diffusion based Multimodal Material Segmentation**  
   Nobuo Yoshii and Ko Nishino,  
   Information Processing Society of Japan SIG-CVIM: Computer Vision and Image Media, 2024, <span style="color: red; font-weight: bold;">[Best Bachelor Paper Award]</span>  
   [[Paper]](https://ipsj.ixsq.nii.ac.jp/records/234142)   
   <img src="/images/MMS.jpg" alt="Multimodal Material Segmentaion" style="width: 90%;">
   
-  
-<h2 id="my-skills">Skills</h2>
 
+Skills
+======
 * Computer Vision
   * Inverse Rendering
   * Material Segmentation
@@ -85,8 +84,8 @@ I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor S
   * Mitsuba3
   * C
   
-<h2 id="my-extracurricular-awards">Extracurricular Awards</h2>
-
+Extracurricular Awards
+======
 * **<span style="color: red; font-weight: bold;">[Regional Champion]</span>** – All Japan Robo-Junior Championship, Osaka Qualifier  
   全日本小中学生ロボット選手権大阪府予選大会・優勝
 * **<span style="color: red; font-weight: bold;">[Best Performance Award]</span>** – Kyoto University ECE Summer Camp  
@@ -99,8 +98,8 @@ I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor S
   大阪府学生科学賞展・優秀賞(大阪府教育委員会賞)  
   <img src="/images/robots.jpg" alt="Robots" style="width: 90%;">
 
-<h2 id="my-hobby">Hobby</h2>
-
+Hobby
+======
 * Watching baseball
 * Outdoor activities (Camping, Cycling, Fishing, Climbing)
   <img src="/images/hobby.jpg" alt="Hobby" style="width: 90%;">
