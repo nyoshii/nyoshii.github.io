@@ -9,7 +9,7 @@
 
 main:
  - title: "Education"
-   url: _pages/about.md#education
+   url: /#education
   # - title: "Publications"
   #   url: /publications/
 
