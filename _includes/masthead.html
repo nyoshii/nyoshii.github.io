@@ -18,15 +18,12 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-          </ul>
+          <li id="theme-toggle" class="masthead__menu-item persist tail">
+            <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+          </li>
+        </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
-  </div>
-
-  <div class="custom-theme-toggle" style="position: absolute; top: 18px; right: 350px; z-index: 999;">
-    <a href="#" id="theme-toggle" style="font-size: 1.1rem; text-decoration: none; cursor: pointer;">
-      <i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>
-    </a>
   </div>
 </div>
