@@ -15,8 +15,8 @@ Hi, I'm Nobuo. I completed my Master's degree in Computer Vision at Kyoto Univer
 I also worked with Prof. [Todd Zickler](https://zickler.seas.harvard.edu/).  
 I am currently working as a Computer Vision R&D Engineer at Sony Semiconductor Solutions.
 
-Education　{#my-education}
-======
+<h2 id="my-education">Education</h2>
+
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2024 - March 2026</td>
@@ -28,8 +28,8 @@ Education　{#my-education}
   </tr>
 </table>
 
-Work experience　{#my-work-experience}
-======
+<h2 id="my-work-experience">Work experience</h2>
+
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="width: 32.5%; padding: 5px 0; vertical-align: top; border: none; font-size: 1.05rem; padding-left: 30px;">April 2026 - </td>
@@ -57,8 +57,8 @@ Work experience　{#my-work-experience}
   </tr>
 </table>
 
-Publications　{#my-Publication}
-======
+<h2 id="my-publications">Publications</h2>
+
 * **Under One Sun: Multi-Object Generative Perception of Materials and Illumination**  
   Nobuo Yoshii, Xinran N. Han, Ryo Kawahara, Todd Zickler, and Ko Nishino,  
   Under Review, 2026,  
@@ -72,8 +72,8 @@ Publications　{#my-Publication}
   <img src="/images/MMS.jpg" alt="Multimodal Material Segmentaion" style="width: 90%;">
   
   
-Skills　{#my-skills}
-======
+<h2 id="my-skills">Skills</h2>
+
 * Computer Vision
   * Inverse Rendering
   * Material Segmentation
@@ -85,8 +85,8 @@ Skills　{#my-skills}
   * Mitsuba3
   * C
   
-Extracurricular Awards　{#my-extracurricular-awards}
-======
+<h2 id="my-extracurricular-awards">Extracurricular Awards</h2>
+
 * **<span style="color: red; font-weight: bold;">[Regional Champion]</span>** – All Japan Robo-Junior Championship, Osaka Qualifier  
   全日本小中学生ロボット選手権大阪府予選大会・優勝
 * **<span style="color: red; font-weight: bold;">[Best Performance Award]</span>** – Kyoto University ECE Summer Camp  
@@ -99,8 +99,8 @@ Extracurricular Awards　{#my-extracurricular-awards}
   大阪府学生科学賞展・優秀賞(大阪府教育委員会賞)  
   <img src="/images/robots.jpg" alt="Robots" style="width: 90%;">
 
-Hobby {#my-hobby}
-======
+<h2 id="my-hobby">Hobby</h2>
+
 * Watching baseball
 * Outdoor activities (Camping, Cycling, Fishing, Climbing)
   <img src="/images/hobby.jpg" alt="Hobby" style="width: 90%;">
